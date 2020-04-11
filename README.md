@@ -1,2 +1,2 @@
-# ExampleProject
+# Example Project
 {Project Description}
