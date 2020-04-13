@@ -1,4 +1,2 @@
 # Example Project
-{Project Description}
-
-# THIS IS PART OF A NON-MASTER BRANCH
+This is an example project for the Innovational Youth Initiative.
